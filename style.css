@@ -1,5 +1,8 @@
 body
 p {
     text-align: center;
+}
+
+body {
     background: rgba(255, 255, 159, 0.432);
 }
